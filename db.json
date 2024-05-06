@@ -1,1 +1,8 @@
-
+{
+  "personagens": [
+    {
+      "id": 1,
+      "nome": "Hello Kitty"
+    }
+  ]
+}
