@@ -28,48 +28,59 @@
     {
       "id": 6,
       "nome": "Pompompurin",
-      "aniversario": "16 de abril"
+      "aniversario": "16 de abril",
+      "img": "https://www.sanrio.com.br/upload/eyJpdiI6IlpRU1NiSHU4MkRoakxINmNzTWdHRnc9PSIsInZhbHVlIjoiS1BpMklNam1ocTcxcHhNcTJuVVduUT09IiwibWFjIjoiYzU0ZGIyYzQzMzE3MWY3MThkNmIyOTQ0NjBlZTQ4ZWYxZWRiZDRjMjM0ODUxN2ZiZjc4ZjE4ZjVjY2M4MDQzOSJ9.png"
     },
     {
       "id": 7,
       "nome": "Kuromi",
-      "aniversario": "31 de outubro"
+      "aniversario": "31 de outubro",
+      "img": "https://www.sanrio.com.br/upload/eyJpdiI6IlE0WjNkVTJBQ2c4akxNb1NscjRtamc9PSIsInZhbHVlIjoiTEh6ZnlTc0NRbVVuMDR5TmZmUDBPQT09IiwibWFjIjoiNzk3MDMzNjRjMWIyYzE3ZDgyYmUzMmU5NDM1MTkyNTJkNGJlNGY3YjYyNTk1ZTI0MDBjMmMzNDg4MDQ3YWMwYiJ9.png"
     },
     {
       "id": 8,
       "nome": "Little Twin Stars",
-      "aniversario": "24 de dezembro"
+      "aniversario": "24 de dezembro",
+      "img": "https://www.sanrio.com.br/upload/eyJpdiI6InhwVVVrTjV2NDdtUk5cLzlDVFNaazFRPT0iLCJ2YWx1ZSI6IkxhdDhnR3JrSUdYcTA0QXFveTBGc2c9PSIsIm1hYyI6IjdkYmUxY2QyMmZiMzQxNTM2ZGI3MWE4MzgzMTI3NDAzOGRjMzZmOWVhNzQwY2NhMjJhYjk3MGQ4MjAzZmJiMjIifQ==.png"
     },
     {
       "id": 9,
-      "nome": "Gudetama"
+      "nome": "Gudetama",
+      "img": "https://www.sanrio.com.br/upload/eyJpdiI6InkwQnJndDBPcjhcL1JZYWFJZlc5Z1F3PT0iLCJ2YWx1ZSI6InA4aWpCaFJYcVNtT0w0ajdXUHhNblE9PSIsIm1hYyI6ImY5NTM0NzQzZDc1MjE3ZDNlMjdkMGNhZDg2Mjk2Nzk0NTNhMDFhZTZmNTJmZGM5YTdmMTBjYWY1ZDI2NzE0ZTMifQ==.png"
+      
     },
     {
       "id": 10,
       "nome": "Pochacco",
-      "aniversario": "29 de fevereiro"
+      "aniversario": "29 de fevereiro",
+      "img": "https://www.sanrio.com.br/upload/eyJpdiI6IkRkWlU3dVRwXC9pWXNJOWVhdVBJRGp3PT0iLCJ2YWx1ZSI6IlFUUHA5VzVoVG85QStvRzFGdUxwRkE9PSIsIm1hYyI6ImI0ODE3M2M1YWYyMWU5OTg5NWFiMWYxYTYzZmVjNmJkOTIyYjQyNDM2NDUxYzVlY2QxYmZjY2VmODQ2OGZhMjcifQ==.png"
     },
     {
       "id": 11,
-      "nome": "Aggretsuko"
-      "aniversario": "6 de novembro"
+      "nome": "Aggretsuko",
+      "aniversario": "6 de novembro",
+      "img": "https://www.sanrio.com.br/upload/eyJpdiI6IldGXC9oRUMwS0FuMmt5endjZ1ZmN3hBPT0iLCJ2YWx1ZSI6InU4czJjY1luS0U3MkNIWWVhNG1aaFE9PSIsIm1hYyI6IjQ4ODk2N2M5Y2NkOGQyMzI5MDQ5N2ZjOTA2OGI4MjA3ZTQ2YjU3NjFhOWNmYWNhMmIyMjU3ZjQ4N2E1MTJiZTcifQ==.png"
     },
     {
       "id": 12,
       "nome": "Cinnamoroll",
-      "aniversario": "6 de março"
+      "aniversario": "6 de março",
+      "img": "https://www.sanrio.com.br/upload/eyJpdiI6IjVOT1wvV2pEVGRFZTcxazFjczRDeDJ3PT0iLCJ2YWx1ZSI6IkZrRTVrWHFDNExNcElpM3JDWHU3bXc9PSIsIm1hYyI6IjNmODI4YmMwNWExM2VlODA2ZDAwMzk3ZTJjZjQxNzk0OGFhMTM0OWJjNDE1ZjkwMzE2YzllNDNjNGNjMTgxOTcifQ==.png"
     },
     {
       "id": 13,
-      "nome": "Tuxedosam"
+      "nome": "Tuxedosam",
+      "img": "https://cdn.sanriowiki.com/7/70/Tuxedosam.png"
     },
     {
       "id": 14,
-      "nome": "My Sweet Piano"
+      "nome": "My Sweet Piano",
+      "img": "https://static.wikia.nocookie.net/hellokitty/images/e/eb/Sanrio_Characters_My_Sweet_Piano_Image024.png/revision/latest/scale-to-width-down/250?cb=20170525183118"
     },
     {
       "id": 15,
-      "nome": "Pekkle"
+      "nome": "Pekkle",
+      "img": "https://static.wikia.nocookie.net/hellokitty/images/0/06/Sanrio_Characters_Pekkle_Image002.png/revision/latest?cb=20170404012410"
     }
   ]
 }
