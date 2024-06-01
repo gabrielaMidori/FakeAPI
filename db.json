@@ -51,6 +51,7 @@
     {
       "id": 9,
       "nome": "Gudetama",
+      "aniversario": "todo dia",
       "img": "https://www.pngmart.com/files/23/Gudetama-Download-PNG-Image.png"
       
     },
@@ -75,16 +76,19 @@
     {
       "id": 13,
       "nome": "Tuxedosam",
+      "aniversario": "12 de maio",
       "img": "https://cdn.sanriowiki.com/7/70/Tuxedosam.png"
     },
     {
       "id": 14,
       "nome": "My Sweet Piano",
+      "aniversario": "6 de julho",
       "img": "https://i.pinimg.com/originals/c1/aa/61/c1aa61c11d6b09836c877094d917440e.png"
     },
     {
       "id": 15,
       "nome": "Pekkle",
+      "aniversario": "27 de julho",
       "img": "https://static.wikia.nocookie.net/hellokitty/images/0/06/Sanrio_Characters_Pekkle_Image002.png/revision/latest?cb=20170404012410"
     }
   ]
